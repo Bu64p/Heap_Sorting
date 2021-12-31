@@ -20,7 +20,6 @@ public class Heap_sorting {
 	private void build_heap() {
     // applay the Max heap attribute to array:
 		for (int i = heap_size / 2 - 1; i >= 0; i--) {
-			System.out.println(i);
 			heapify(i);
 		}
     // now the we have a Max heap but we want a sorted array not a heap with sorted roots:
