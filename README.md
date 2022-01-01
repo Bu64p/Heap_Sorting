@@ -7,15 +7,19 @@ in Max Heap there is an attribute, root(s) is(are) equalse or less then parent, 
 now we can extend this attribute to all of the heap.
 and at last we convert our sorted heap to a line via take out the Max element till end.
 # Time:
-<i>T = O(nlgn) </i>
+<u><i>T = O(nlgn) </i></u>
 
 (n is number of elements and T is not necessarily seconds)
 
+# How can we test it?
 
+That's so simple! there is a tester file you can use!
 
-
-
-
+  
+    
+    
+    
+    
 
 #
-Code and Design By Eng.Parsa Gh (Bu64p)
+<b><i>Code and Design By Eng.Parsa Gh (Bu64p)</b></i>
